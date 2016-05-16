@@ -18,4 +18,4 @@ Then, to start the reapanator: `npm start`.
 
 # License
 
-The Reapanator is under the MIT/X11 license. For more information, read the [license.txt](license.txt).
+The Reapanator is under the MIT/X11 license. For more information, read the [LICENSE.txt](LICENSE.txt).
